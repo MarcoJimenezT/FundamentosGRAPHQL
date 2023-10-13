@@ -71,3 +71,6 @@ async function iniciarApolloServer(){
   console.log("App listening on ", url)
 }
 
+
+iniciarApolloServer();
+
